@@ -1,0 +1,14 @@
+dependencies:
+- jupyterlab=0.32.1
+- nodejs=8.9
+- notebook=5.4
+- nbconvert=5.3
+- ipykernel=4.7
+- ipywidgets=7.2
+- widgetsnbextension=3.2
+- altair=1.2
+- dask=0.15
+- python=3.6
+- pyyaml
+- traittypes==0.0.6
+- invoke=0.21
